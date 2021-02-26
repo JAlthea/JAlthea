@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![JAlthea's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAlthea&show_icons=true&theme=dracula)](https://github.com/JAlthea/github-readme-stats)
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
+
+
 <!--
 **JAlthea/JAlthea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

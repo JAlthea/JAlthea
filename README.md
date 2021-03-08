@@ -2,7 +2,7 @@
 [![JAlthea's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAlthea&show_icons=true&theme=dracula)](https://github.com/JAlthea/github-readme-stats)
 -->
 
-### 💬 Rank Rating : Algorithm Problem Solving
+### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
 

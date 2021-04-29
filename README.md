@@ -5,7 +5,7 @@
 ### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
-### 🤔 Where C++? 
+### 🤔 Where is C++? 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAlthea&layout=compact)](https://github.com/JAlthea/github-readme-stats)
 
 <!--

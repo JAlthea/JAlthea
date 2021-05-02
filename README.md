@@ -1,7 +1,7 @@
 <!--
 [![JAlthea's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAlthea&show_icons=true&theme=dracula)](https://github.com/JAlthea/github-readme-stats)
 -->
-# Board
+# 
  🌱 I'm currently learning 
 <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="40" height="40">
 

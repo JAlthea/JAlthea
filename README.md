@@ -5,7 +5,7 @@
  🌱 I'm currently learning 
 <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="40" height="40">
 
-🔦 I'm interested in <b><i>DevOps</i></b>
+🔦 I'm interested in <span style="color: green;"><b><i>DevOps</i></b></span>
 
 ### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)

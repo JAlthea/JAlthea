@@ -6,7 +6,8 @@
 <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" width="40" height="40">
 
 🔦 I'm interested in 
-<img src="https://www.suse.com/c/wp-content/uploads/2019/10/27016_1569327969643-devops-process.png" width="70" height="35">
+<img src="https://www.suse.com/c/wp-content/uploads/2019/10/27016_1569327969643-devops-process.png" width="60" height="30">
+<img src="https://static.cdnlogo.com/logos/g/1/google-cloud.svg" width="40" height="30">
 
 ### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)

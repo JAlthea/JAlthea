@@ -14,7 +14,7 @@
 ### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
-### 😄 Algorithm View
+### 😄 Category View
 https://github1s.com/JAlthea/Algorithm <br><br>
 ![image](https://user-images.githubusercontent.com/50026903/120692494-cdd6ee00-c4e2-11eb-9f4e-7862530370d7.png)
 

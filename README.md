@@ -14,8 +14,9 @@
 ### 💬 My hobby is algorithm problem-solving
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
-### 🤔 Where is C++? 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAlthea&layout=compact)](https://github.com/JAlthea/github-readme-stats)
+### 😄 Algorithm View
+https://github1s.com/JAlthea/Algorithm
+#
 
 <!--
 **JAlthea/JAlthea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,7 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
 ### 😄 Category View
-https://github1s.com/JAlthea/Algorithm <br><br>
+https://github1s.com/JAlthea/Algorithm 
 
 #
 

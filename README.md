@@ -12,7 +12,7 @@
 <img src="https://static.cdnlogo.com/logos/g/1/google-cloud.svg" width="40" height="30">
 
 ### 💬 My hobby is algorithm problem-solving
-[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
 ### 😄 Category View
 https://github1s.com/JAlthea/Algorithm 

@@ -10,7 +10,7 @@
 <img src="https://www.suse.com/c/wp-content/uploads/2019/10/27016_1569327969643-devops-process.png" width="65" height="35"> 
 <img src="https://static.cdnlogo.com/logos/g/1/google-cloud.svg" width="40" height="30">
 
-### 💬 Algorithm Problem-solving
+### 💬 Hobby? Algorithm Problem-solving
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
 ### 😄 Category View

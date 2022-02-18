@@ -1,15 +1,15 @@
 <!--
 [![JAlthea's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAlthea&show_icons=true&theme=dracula)](https://github.com/JAlthea/github-readme-stats)
 -->
-# 
-#### 🌱 Working and Learning  <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://icons.veryicon.com/png/o/miscellaneous/open-ncloud/network-135.png" width="40" height="37"> 
 
-#### 🔦 Interested in <img src="https://www.suse.com/c/wp-content/uploads/2019/10/27016_1569327969643-devops-process.png" width="65" height="35"> <img src="https://static.cdnlogo.com/logos/g/1/google-cloud.svg" width="40" height="30">
+#### Working and Learning  <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://icons.veryicon.com/png/o/miscellaneous/open-ncloud/network-135.png" width="40" height="37"> 
 
-#### 💬 Hobby? Algorithm Problem-solving
+#### Interested in <img src="https://www.suse.com/c/wp-content/uploads/2019/10/27016_1569327969643-devops-process.png" width="65" height="35"> <img src="https://static.cdnlogo.com/logos/g/1/google-cloud.svg" width="40" height="30"> 
+
+#### Hobby, Algorithm Problem-solving
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=practice1)](https://solved.ac/practice1)
 
-#
+
 
 <!--
 **JAlthea/JAlthea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

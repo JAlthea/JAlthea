@@ -2,7 +2,7 @@
 [![JAlthea's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAlthea&show_icons=true&theme=dracula)](https://github.com/JAlthea/github-readme-stats)
 -->
 
-#### Working and Learning &nbsp; <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://icons.veryicon.com/png/o/miscellaneous/open-ncloud/network-135.png" width="40" height="37"> 
+#### Working (and Worked) &nbsp; <img src="https://isocpp.org/files/img/cpp_logo.png" width="30" height="35"> <img src="https://icons.veryicon.com/png/o/miscellaneous/open-ncloud/network-135.png" width="40" height="37"> 
 
 #### Learning &nbsp; <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="40" height="35"> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUd7Eb%2FbtqGHrpOMqH%2FPj870JUKsJRipdGSofWgF1%2Fimg.jpg" width="40" height="35">
 
